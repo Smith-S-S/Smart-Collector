@@ -11,7 +11,7 @@ import urllib.request
 
 # Connect to WebSocket server
 ws = websocket.WebSocket()
-ws.connect("ws://192.168.178.132")
+ws.connect("ws://192.168.178.132") #if the ipadress from the ipwebcam apk from playstore to acceaa the mobile camera
 print("Connected to WebSocket server")
 
 url="http://192.168.178.99:8080/shot.jpg"
@@ -19,9 +19,9 @@ url="http://192.168.178.99:8080/shot.jpg"
 tolerance_value = 5
 new_frame_time = 0
 prev_frame_time = 0
-model = YOLO("C:\mac\pycham\pythonProject3\major_ma\\trash_data\\result\\campus_best.pt")
-xx = "C:/mac/pycham/pythonProject3/major_ma/data.mp4"
-frame = cv2.VideoCapture(xx)
+model = YOLO("best.pt")
+xx = "C:/mac/pycham/pythonProject3/major_ma/data.mp4" #add out video for trial
+frame = cv2.VideoCapture(xx) #if youe use 1 or 0 it use ur web came instead of (xx)
 pixels_per_cm = 10
 
 classNames = ["bottle", "plastic","paper"]
