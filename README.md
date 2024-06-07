@@ -31,8 +31,8 @@ This versatile solution, adaptable to various environmental conditions, promises
 To get started with the project, follow the and refer to the [Documentation](https://drive.google.com/file/d/1IwIXFYyZmbpKqiaKvOBKdJr4S9GR0HXT/view?usp=sharing) And for the ipwebcam use this link to download [APP](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_SG) one You get in to the app scroll down to start the server and u able to get the ipsdress.
 
 ## Dataset You Can Use:
-[data-1](https://universe.roboflow.com/material-identification/garbage-classification-3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
-[data-2]([https://universe.roboflow.com/material-identification/garbage-classification-3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true](https://universe.roboflow.com/garbage-detection-czeg5/garbage_detection-wvzwv/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true))
+- [data-1](https://universe.roboflow.com/material-identification/garbage-classification-3/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+- [data-2](https://universe.roboflow.com/garbage-detection-czeg5/garbage_detection-wvzwv/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
 
 
