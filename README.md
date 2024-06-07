@@ -28,4 +28,4 @@ This versatile solution, adaptable to various environmental conditions, promises
 
 ## Getting Started
 
-To get started with the project, follow the and refer to the [Documentation]([link_to_documentation](https://drive.google.com/file/d/1IwIXFYyZmbpKqiaKvOBKdJr4S9GR0HXT/view?usp=sharing)) And for the ipwebcam use this link to download [APP]([[link_to_documentation](https://drive.google.com/file/d/1IwIXFYyZmbpKqiaKvOBKdJr4S9GR0HXT/view?usp=sharing)](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_SG)) one You get in to the app scroll down to start the server and u able to get the ipsdress.
+To get started with the project, follow the and refer to the [Documentation](https://drive.google.com/file/d/1IwIXFYyZmbpKqiaKvOBKdJr4S9GR0HXT/view?usp=sharing) And for the ipwebcam use this link to download [APP](https://play.google.com/store/apps/details?id=com.pas.webcam&hl=en_SG) one You get in to the app scroll down to start the server and u able to get the ipsdress.
